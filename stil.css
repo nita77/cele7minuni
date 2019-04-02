@@ -1,0 +1,20 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	border: 20px ridge blue;
+	padding: 8px;
+	text-align: center;
+	background-color: #799BBF;
+}
+table {width:50%;}
+table, td{
+	border: 3px ridge blue;
+	margin:0px 400px;
+	border-collapse: collapse;
+	text-align:center;
+}
+img {
+	width:250px;
+	height:200px;
+}
